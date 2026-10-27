@@ -1,0 +1,7 @@
+User: siya
+
+Tasks assigned  : 8
+% Assigned      : 25%
+% Completed     : 60%
+% Incopleted    : 40%
+% Overdue       : 20%
